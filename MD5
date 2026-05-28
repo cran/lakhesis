@@ -1,4 +1,4 @@
-1d6b4ee277204e7d2ab511bc93aaa4e0 *DESCRIPTION
+e307ac280ce62e2e403f5b9fa52c9b64 *DESCRIPTION
 3eee791a984e4f24643eb09816074adb *NAMESPACE
 646071620b7b6fe504a65534bc771b6c *R/RcppExports.R
 927f03c92cabfa7ec4e0a1b891a9ae4d *R/app.R
@@ -9,12 +9,12 @@ ea16072b692c11e701886545b24e0746 *R/incidence.R
 2efa00fbe955dfa02f133eee6ca578e9 *R/print.R
 44906e63d9f07d6c6ac395515e79bcb3 *R/procrustes.R
 2acde9e73d3f6809f1f18f8a0584d4c0 *R/strand.R
-ee0195dcb3b9dadef820286184df5c5a *README.md
-06ef5854fcfd73e33bfbda360bdcbcae *build/partial.rdb
+ed2142a6878ad395b7aeba6986c7353f *README.md
+fd81604e8d0baafc14c95547473b1d81 *build/partial.rdb
 5009b016442e982f8d753ede20d5e5f6 *build/vignette.rds
 8f6214155a8b1ff229a5c982ff8a9413 *data/qf_strands.rda
 59afb920b7d35e377fdf4b28fe05e66c *data/quattrofontanili.rda
-b3213fe1b4f6b942fd883261f7eb36e1 *inst/CITATION
+d86e4fe7b5ea98e3e0615733a6e8e833 *inst/CITATION
 05505f51d88ed4f544249426a0ea3a87 *inst/REFERENCES.bib
 708797c2bb03bd929587ffe2cc395208 *inst/app/server.R
 5d41c1d1089f9666b78de1398a68e5df *inst/app/ui.R
